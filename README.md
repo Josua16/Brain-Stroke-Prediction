@@ -30,3 +30,6 @@ Model yang digunakan dalam project ini, sebagai berikut:
 4. LightGBM 
 5. K-Nearest Neighbor (KNN)
 
+# Kesimpulan
+Model yang memiliki performa paling bagus dalam memprediksi pasien stroke atau bukan adalah model LightGBM dengan nilai akurasi sekitar 81%
+
